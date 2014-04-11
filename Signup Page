@@ -33,6 +33,26 @@
 </table> 
 </fieldset> 
 </div>
+
+<!== LETS INSERT SOME PHP INTO THIS BITCH ==!>
+
+<?php>
+$mydick = 20;
+
+if($mydick != 20) {
+  echo "BALLS OF STEEL";
+  }
+  elseif ($mydick > 54) {
+  echo "BLOW IT OUT YOUR ASS";
+  }
+  else($mydick = 20) {
+  echo "I LOVE PHP such a fun language like what i did there jeff. Just brushing up on my techniques"
+  }
+
+
+
+
+
 </body> 
 </html>
 
