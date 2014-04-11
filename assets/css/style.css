@@ -29,10 +29,12 @@ body{
 a, a:visited {
 	outline:none;
 	color:#389dc1;
+	
 }
 
 a:hover{
 	text-decoration:none;
+	background-color:aqua;
 }
 
 section, footer, header, aside{
